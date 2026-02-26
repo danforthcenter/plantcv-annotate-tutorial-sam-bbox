@@ -15,4 +15,5 @@ Napari, Bounding Box, Segment Anything, SAM3
 ## Citations
 
 
+[![DOI](https://zenodo.org/badge/1167006375.svg)](https://doi.org/10.5281/zenodo.18793639)
 
